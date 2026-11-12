@@ -1,5 +1,0 @@
-pip install pandas  
-pip install matplotlib
-pip install openpyxl
-pip install python-calamine
-pip install plotly
